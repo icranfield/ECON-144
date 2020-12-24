@@ -3,4 +3,4 @@ UCLA Econ 144: Economic Forecasting Spring 2020
 
 ### Syllabus 
 
-[Syllabus](other_file.md)
+[Syllabus](https://github.com/icranfield/ECON-144/blob/master/econ144_spring_2020%20Syllabus.pdf)
