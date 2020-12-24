@@ -1,5 +1,6 @@
 # ECON 144
 UCLA Econ 144: Economic Forecasting Spring 2020
+Focus in Time Series Forecasting of Economic Data using R Programming
 
 ### Syllabus 
 
